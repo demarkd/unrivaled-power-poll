@@ -1,6 +1,3 @@
 remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
 title: LosLynx GC Unrivaled Power Poll Results
 description: Results for the weekly Unrivaled Power Poll!
