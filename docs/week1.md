@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Week 1 poll results"
+title: "Week 1 Poll Results"
 permalink: /week1
+---
 
 # Week 1:
 **Total Respondents:** 11
