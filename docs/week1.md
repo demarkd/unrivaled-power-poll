@@ -193,7 +193,7 @@ Both Vinyl games included! People are excited to see the top teams battle it out
 #### Respondent #8:
 "First weekend of Unrivaled delivered and then some. All of the work that went into educating fans about the new league paid off. My excitement and buy in was only magnified because of the way the 2024 Lynx season ended (Breanna can have the first Unrivaled shot but Phee has the first Unrivaled WIN). I love the organic seeming way that team personalities and traditions are forming (Hootie Hoo, Golden shoe, Vinyls mic, Ghost Gang, etc). I love the pre and post game shows and only wish that Max kept them available after they were originally live streamed (must be a quirk with the TNT agreement)."
 
-##Closing comments:
+## Closing comments:
 As we saw in questions 1 and 7, Unrivaled is a whole heap of fun and so far a big success! Thanks to all our panelists for participating in the first weekly power poll!
 
 
