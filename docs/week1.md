@@ -10,7 +10,7 @@ permalink: /week1
 **Distribution**:
 
 | Rating | # Respondents: |
-| _____ | _____ |
+| :---: | :---: |
 | 10 | 2 |
 | 9 | 5 |
 | 8 | 3 |
