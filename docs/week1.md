@@ -30,8 +30,8 @@ Ranking determined by an elimination round system not unsimilar to that used by 
 ### Results:
 #### 1. Lunar Owls BC
 *Average Ranking:* 1.45.  
-*Highest Ranking:* (#): 1 (6).  
-*Lowest Ranking:* (#): 2 (5).  
+*Highest Ranking (#):* 1 (6).  
+*Lowest Ranking (#):* 2 (5).  
 #### 2. Laces BC
 Average Ranking: 1.54.  
 Highest Ranking (#): 1 (5).  
