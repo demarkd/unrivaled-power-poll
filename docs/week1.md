@@ -1,4 +1,4 @@
-layoutL page
+layout: page
 title: "Week 1 poll results"
 permalink: /week1
 
