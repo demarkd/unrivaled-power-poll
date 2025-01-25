@@ -165,7 +165,7 @@ Our panel *LOVED* the first weekend of unrivaled! The most pessimistic panelist 
 *Lowest Ranking (#):* 6 (6). 
 
 
-###Comments:
+### Comments:
 First weird quirk of the voting system I chose: though the average ranking for Phantom was lower than that for Rose or Mist, they ended up in fourth. This means that more people had Rose and Mist in higher spots on their ballot, but ultimately, a majority had Phantom over Rose and a majority had Phantom over Mist. (If you're wondering why I chose a voting system that allows such quirks, I will refer you to [Arrow's impossibility theorem.](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem))
 
 ## Question 5: Which game was your favorite of the weekend past?
