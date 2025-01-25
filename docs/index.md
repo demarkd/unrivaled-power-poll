@@ -4,4 +4,4 @@ title: "Index"
 permalink: /
 ---
 
-## [Week 1](https://github.io/demarkd/unrivaled_power_poll/week1)
+## [Week 1](https://demarkd.github.io/unrivaled_power_poll/week1)
