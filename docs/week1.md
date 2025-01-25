@@ -29,12 +29,12 @@ Our panel *LOVED* the first weekend of unrivaled! The most pessimistic panelist 
 Ranking determined by an elimination round system not unsimilar to that used by the City of Minneapolis for City Council elections. Bug me about it if you *really* want to know details (or check [RCV.ipynb] in the source repository, I guess).
 ### Results:
 #### 1. Lunar Owls BC
-Average Ranking: 1.45. 
-Highest Ranking (#): 1 (6). 
-Lowest Ranking (#): 2 (5). 
+*Average Ranking:* 1.45.  
+*Highest Ranking:* (#): 1 (6).  
+*Lowest Ranking:* (#): 2 (5).  
 #### 2. Laces BC
-Average Ranking: 1.54. 
-Highest Ranking (#): 1 (5). 
+Average Ranking: 1.54.  
+Highest Ranking (#): 1 (5).  
 Lowest Ranking (#): 2 (6). 
 #### 3. Vinyl BC
 Average Ranking: 3.18. 
