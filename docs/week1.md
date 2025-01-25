@@ -10,6 +10,7 @@ permalink: /week1
 
 **Distribution**:
 
+(%class="table-bordered"%)
 | Rating | # Respondents: |
 | :---: | :---: |
 | 10 | 2 |
