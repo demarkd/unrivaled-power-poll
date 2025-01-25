@@ -8,6 +8,7 @@ permalink: /week1
 ### Results:
 **Average:** 8.73/10
 **Distribution**:
+
 | Rating | # Respondents: |
 | _____ | _____ |
 | 10 | 2 |
