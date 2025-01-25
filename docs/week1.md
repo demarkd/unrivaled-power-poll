@@ -31,27 +31,44 @@ Ranking determined by an elimination round system not unsimilar to that used by 
 ### Results:
 #### 1. ![][2] Lunar Owls BC
 *Average Ranking:* 1.45.  
+
 *Highest Ranking (#):* 1 (6).  
-**Lowest Ranking (#):** 2 (5).  
+
+*Lowest Ranking (#):* 2 (5). 
+ 
 #### 2. ![][1] Laces BC
 *Average Ranking:* 1.54.  
+
 *Highest Ranking (#):* 1 (5).  
+
 *Lowest Ranking (#):* 2 (6). 
+
 #### 3. ![][6] Vinyl BC
 *Average Ranking:* 3.18. 
+
 *Highest Ranking (#):* 3 (9). 
+
 *Lowest Ranking (#):* 4 (2). 
+
 #### 4.  ![][3] Mist BC
 *Average Ranking:* 4.18. 
+
 *Highest Ranking (#):* 3 (2). 
+
 *Lowest Ranking (#):* 5 (4). 
+
 #### 5. ![][5] Rose BC
 *Average Ranking:* 5.09
-*Highest Ranking (#):* 4 (2)
+
+*Highest Ranking (#):* 4 (2).
+
 *Lowest Ranking (#):* 6 (3). 
+
 #### 6. ![][4] Phantom BC
 *Average Ranking:* 5.55
+
 *Highest Ranking (#):* 4 (2)
+
 *Lowest Ranking (#):* 6 (8). 
 
 
