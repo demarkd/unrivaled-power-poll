@@ -232,7 +232,7 @@ Napheesa Collier, Kayla McBride, Courtney Williams, Tiffany Hayess/
 [1]: teams/laces.webp
 [2]: teams/owls.webp
 [3]: teams/mist.webp
-[4]: teams/rose.webp
-[5]: teams/phantom.webp
+[5]: teams/rose.webp
+[4]: teams/phantom.webp
 [6]: teams/vinyl.webp
 
