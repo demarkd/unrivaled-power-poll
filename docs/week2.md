@@ -219,9 +219,9 @@ Phantom-Rose, Mist-Vinyl, Rose-Laces, Mist-Phantom.
 #### Respondent #8:
 "LOVE LOVE LOVE"
 
-##Question 9: "I am considering adding an MVP Tracker to the power poll. Enter the names of any number of players below to nominate them for consideration for next week's poll."
+## Question 9: "I am considering adding an MVP Tracker to the power poll. Enter the names of any number of players below to nominate them for consideration for next week's poll."
 ### Results:
-####Players Nominated:
+#### Players Nominated:
 Napheesa Collier, Kayla McBride, Courtney Williams, Tiffany Hayess/
 ### Comments:
 (I will add some more names before doing this)
