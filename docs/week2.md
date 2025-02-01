@@ -197,7 +197,7 @@ Wait, who had Mist third????
 
 ## Question 6: Which game was your favorite of the weekend past?
 ### Results:
-#### 1 (tie). Owls ![][2] - ![][5] Phantom  (3)
+#### 1 (tie). Owls ![][2] - ![][4] Phantom  (3)
 #### 1 (tie). Vinyl ![][6] - ![][2] Owls  (3)
 #### 3. Laces ![][1] - ![][3] Vinyl (1)
 #### Recieving no votes:
